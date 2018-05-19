@@ -1,0 +1,4 @@
+#Fri Apr 13 11:29:21 EDT 2018
+base.0=/Users/issackoshypanicker/AndroidStudioProjects/SimpleDht-issackpgit/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
